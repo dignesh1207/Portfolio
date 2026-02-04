@@ -69,7 +69,7 @@ nav {
     align-items: center;
     z-index: 1000;
     background: linear-gradient(to bottom, var(--paper) 0%, transparent 100%);
-    animation: slideDown 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+    animation: slideDown 1.8s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 /* Mobile Menu Toggle Button */
@@ -1010,12 +1010,12 @@ section {
 
 @media (max-width: 768px) {
   section {
-    scroll-margin-top: 200px;
+    scroll-margin-top: 140px;
   }
 }
 
 @media (max-width: 480px) {
   section {
-    scroll-margin-top: 220px;
+    scroll-margin-top: 200px;
   }
 }
