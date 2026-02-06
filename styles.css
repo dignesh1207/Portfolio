@@ -673,7 +673,7 @@ section {
 }
 
 .download-resume::before {
-    content: 'ðŸ“„';
+    content: '📄';
     font-size: 1.3rem;
 }
 
