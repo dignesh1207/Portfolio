@@ -1005,7 +1005,7 @@ footer p {
 }
 /* Fix anchor scroll offset for fixed navbar */
 section {
-  scroll-margin-top: 40x;
+  scroll-margin-top: 140x;
 }
 
 @media (max-width: 768px) {
